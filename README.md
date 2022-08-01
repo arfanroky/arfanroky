@@ -2,7 +2,6 @@
 <!-- welcome message -->
 <h1>Hey! I'm Arfan Roky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-- 🔭 Moderator at <a href="https://www.programming-hero.com/">Programming Hero</a>
 - 🌱 I’m currently learning MERN Stack Web Development
 - ⚡ I love learning new technologies 
 - 📫 Email arfanroky0@gmail.com
